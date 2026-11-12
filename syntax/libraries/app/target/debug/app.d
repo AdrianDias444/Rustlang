@@ -1,0 +1,1 @@
+/home/adrian/git/Rustlang/syntax/src/libraries/app/target/debug/app: /home/adrian/git/Rustlang/syntax/src/libraries/app/src/main.rs /home/adrian/git/Rustlang/syntax/src/libraries/lib/src/function1.rs /home/adrian/git/Rustlang/syntax/src/libraries/lib/src/function2.rs /home/adrian/git/Rustlang/syntax/src/libraries/lib/src/lib.rs
